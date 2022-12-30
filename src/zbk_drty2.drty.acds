@@ -1,0 +1,2 @@
+@EndUserText.label: 'Root Simple Type with Data Element'
+define type ZBK_DRTY2 : /SAPSDM/SYSTEM_ID;
